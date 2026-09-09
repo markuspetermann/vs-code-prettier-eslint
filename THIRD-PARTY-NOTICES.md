@@ -1,7 +1,18 @@
-MIT License
+# Third-Party Notices
 
-Copyright (c) 2022 Rebecca Vest
-Copyright (c) 2026 Markus Petermann
+The packaged extension (`dist/`) bundles the following dependencies.
+All of them are licensed under the MIT License:
+
+- `@pkgr/core` — Copyright (c) JounQin <admin@1stg.me>
+- `find-up` — Copyright (c) Sindre Sorhus <sindresorhus@gmail.com>
+- `ignore` — Copyright (c) 2013 Kael Zhang <i@kael.me>, contributors
+- `locate-path` — Copyright (c) Sindre Sorhus <sindresorhus@gmail.com>
+- `p-locate` — Copyright (c) Sindre Sorhus <sindresorhus@gmail.com>
+- `require-relative` — Copyright (c) Valerio Proietti
+- `synckit` — Copyright (c) 2021 UnTS
+- `unicorn-magic` — Copyright (c) Sindre Sorhus <sindresorhus@gmail.com>
+
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

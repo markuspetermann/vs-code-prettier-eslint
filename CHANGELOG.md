@@ -1,4 +1,18 @@
-# v6.0.0 (Fri Dec 1 2023)
+# Fork (markuspetermann)
+
+Forked from [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint) at v6.0.0.
+
+## v6.0.1
+
+- Resolve `prettier-eslint` from a configurable global `node_modules` path, defaulting to `/usr/lib/node_modules`
+- Update dependencies; require Node >= 20
+- Add VSIX build workflow; build/test on Node 22
+
+---
+
+# Upstream changelog
+
+## v6.0.0 (Fri Dec 1 2023)
 
 #### 🚀 Enhancement
 
@@ -9,7 +23,7 @@
 - Prettier v3.0 is now required
 - ESLint >= v8.52.0 is now required
 
-# v5.1.0 (Fri Mar 10 2023)
+## v5.1.0 (Fri Mar 10 2023)
 
 :tada: This release contains work from a new contributor! :tada:
 

@@ -6,6 +6,13 @@
 
 # [VS Code Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
 
+> **Fork notice:** This is a fork of [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint)
+> by Rebecca Vest, used under the MIT License. It is **not** published on any marketplace; builds are available from
+> [Releases](https://github.com/markuspetermann/vs-code-prettier-eslint/releases) only. Changes made in this fork:
+>
+> - Resolve `prettier-eslint` from a configurable global `node_modules` path (`vs-code-prettier-eslint.globalNodeModulesPath`)
+> - Updated dependencies and CI workflows; added simple VSIX build workflow
+
 - [Prerequisites](https://github.com/idahogurl/vs-code-prettier-eslint#prerequisites)
 - [Installation](https://github.com/idahogurl/vs-code-prettier-eslint#installation)
 - [Configuration](https://github.com/idahogurl/vs-code-prettier-eslint#configuration)

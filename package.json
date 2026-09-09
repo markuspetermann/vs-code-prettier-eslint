@@ -1,10 +1,13 @@
 {
-  "publisher": "rvest",
+  "publisher": "markuspetermann",
   "name": "vs-code-prettier-eslint",
   "displayName": "Prettier ESLint",
   "description": "A Visual Studio Extension to format JavaScript and Typescript code using prettier-eslint package",
   "license": "MIT",
-  "author": "Rebecca Vest <olserebe@hotmail.com>",
+  "contributors": [
+    "Rebecca Vest <olserebe@hotmail.com> (original author)",
+    "Markus Petermann <dev@markuspetermann.net> (fork maintainer)"
+  ],
   "icon": "icon.png",
   "keywords": [
     "eslint",
@@ -14,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/idahogurl/vs-code-prettier-eslint"
+    "url": "https://github.com/markuspetermann/vs-code-prettier-eslint"
   },
   "version": "6.0.1",
   "engines": {
@@ -111,11 +114,5 @@
   "vsce": {
     "dependencies": false,
     "yarn": true
-  },
-  "__metadata": {
-    "id": "d4b06bd6-36a0-469f-be55-c0a73413b688",
-    "publisherDisplayName": "Rebecca Vest",
-    "publisherId": "b95e678b-a11b-44b4-b281-6b521c2005bc",
-    "isPreReleaseVersion": false
   }
 }
