@@ -14,7 +14,7 @@ describe('Extension Test Suite', () => {
 
   beforeAll(async () => {
     await helper.changeConfig('[javascript]', {
-      'editor.defaultFormatter': 'rvest.vs-code-prettier-eslint',
+      'editor.defaultFormatter': 'markuspetermann.vs-code-prettier-eslint',
     });
   });
 
